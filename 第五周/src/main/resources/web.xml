@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web-app>
+    <servlet>
+        <servlet-name>hanrui</servlet-name>
+        <servlet-class>server.Servlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>hanrui</servlet-name>
+        <url-pattern>/hanrui</url-pattern>
+    </servlet-mapping>
+
+</web-app>
